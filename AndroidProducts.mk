@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_chagallwifi.mk
+    $(LOCAL_DIR)/omni_chagallxx.mk
