@@ -1,1 +1,1 @@
-add_lunch_combo omni_chagallwifi-userdebug
+add_lunch_combo omni_chagallwifi-eng
