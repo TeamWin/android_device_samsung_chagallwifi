@@ -1,0 +1,5 @@
+ro.arch=exynos5420
+ro.chipname=exynos5420
+ro.sf.lcd_density=320
+ro.hardware.keystore=universal5420
+persist.sys.usb.config=mtp,adb
